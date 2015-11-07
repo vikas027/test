@@ -1,0 +1,6 @@
+---
+- name: Ping All Dev Servers
+  hosts: myservers
+
+  tasks:
+    - action: ping
