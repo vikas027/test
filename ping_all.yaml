@@ -3,4 +3,4 @@
   hosts: myservers
 
   tasks:
-    - action: ping
+    - action: ping me
